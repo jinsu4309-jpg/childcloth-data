@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "type": "session",
+  "exportedAt": "2026-10-01T04:13:45.857Z",
+  "amapJsKey": "e708f29e1eaa4fd79ccc7d223f858dff",
+  "start": {
+    "lat": 36.723374,
+    "lng": 117.056337,
+    "name": "집",
+    "address": "山东省济南市历城区华山街道中海·天钻(南门)"
+  },
+  "stores": [
+    {
+      "id": "d2c11ab4-a2a3-4912-9312-8b4889fa1c29",
+      "number": 1,
+      "name": "欣芭可童装(燕山小区店)",
+      "address": "和平路16-2号燕山小区北区",
+      "phone": "15588888708",
+      "lat": 36.661277,
+      "lng": 117.061454,
+      "type": "normal",
+      "cityName": "济南市",
+      "districtName": "历下区"
+    },
+    {
+      "id": "fa26b58a-3975-479e-8b2c-ad21189087d9",
+      "number": 2,
+      "name": "依依童趣屋童装店(中海天悦府北区店)",
+      "address": "舜风路700号中海天悦府北二区15号楼1-106",
+      "phone": "13581733580",
+      "lat": 36.674386,
+      "lng": 117.14231,
+      "type": "priority",
+      "cityName": "济南市",
+      "districtName": "历下区"
+    }
+  ],
+  "parking": [],
+  "delicacy": {},
+  "initialVisitedIds": []
+}
