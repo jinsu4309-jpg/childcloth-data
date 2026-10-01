@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "type": "session",
+  "exportedAt": "2026-10-01T03:00:16.533Z",
+  "amapJsKey": "e708f29e1eaa4fd79ccc7d223f858dff",
+  "start": {
+    "lat": 36.723374,
+    "lng": 117.056337,
+    "name": "집",
+    "address": "山东省济南市历城区华山街道中海·天钻(南门)"
+  },
+  "stores": [
+    {
+      "id": "2bda069f-a66b-4f9a-b533-84b96d497a21",
+      "number": 1,
+      "name": "咿呀贝贝童装童鞋羊口店",
+      "address": "羊口镇太平路与健康街路口西北路北侧",
+      "phone": "",
+      "lat": 37.266796,
+      "lng": 118.861894,
+      "type": "normal",
+      "cityName": "潍坊市",
+      "districtName": "寿光市"
+    },
+    {
+      "id": "55d65e7d-93a1-4b0e-ade7-217f11abb241",
+      "number": 2,
+      "name": "寿光市甜咪儿童装店",
+      "address": "农圣街北(北大领世郡小区院内)",
+      "phone": "18766363656",
+      "lat": 36.852386,
+      "lng": 118.772735,
+      "type": "normal",
+      "cityName": "潍坊市",
+      "districtName": "寿光市"
+    },
+    {
+      "id": "4143b497-c757-4b38-8eef-d5b8ca79fd56",
+      "number": 3,
+      "name": "红果果童装(招贤街店)",
+      "address": "招贤街与幸福路交叉口西200米",
+      "phone": "13295369536",
+      "lat": 36.876779,
+      "lng": 118.754433,
+      "type": "normal",
+      "cityName": "潍坊市",
+      "districtName": "寿光市"
+    }
+  ],
+  "parking": [],
+  "delicacy": {},
+  "initialVisitedIds": []
+}
