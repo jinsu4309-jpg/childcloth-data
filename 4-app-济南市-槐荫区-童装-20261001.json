@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "session",
+  "exportedAt": "2026-10-01T12:29:19.354Z",
+  "amapJsKey": "e708f29e1eaa4fd79ccc7d223f858dff",
+  "start": {
+    "lat": 36.723374,
+    "lng": 117.056337,
+    "name": "집",
+    "address": "山东省济南市历城区华山街道中海·天钻(南门)"
+  },
+  "stores": [
+    {
+      "id": "cbba0fd8-2f15-45ef-b307-c3a5d0a626d6",
+      "number": 1,
+      "name": "金宝童装(匡山小区便民市场店)",
+      "address": "匡山小区便民市场中排路南",
+      "phone": "13853117583;15820000475",
+      "lat": 36.673175,
+      "lng": 116.953225,
+      "type": "priority",
+      "cityName": "济南市",
+      "districtName": "槐荫区"
+    }
+  ],
+  "parking": [],
+  "delicacy": {},
+  "initialVisitedIds": []
+}
