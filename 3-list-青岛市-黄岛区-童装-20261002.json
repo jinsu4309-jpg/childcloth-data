@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "type": "businessList",
-  "exportedAt": "2026-10-01T16:20:45.049Z",
+  "exportedAt": "2026-10-02T13:01:04.572Z",
   "cityName": "青岛市",
   "districtName": "黄岛区",
   "searchKeyword": "童装",
@@ -17,8 +17,8 @@
       "districtName": "黄岛区",
       "lat": 35.920973,
       "lng": 120.105903,
-      "type": "none",
-      "visitStatus": "none",
+      "type": "priority",
+      "visitStatus": "pending",
       "routeId": "",
       "photos": [
         "https://store.is.autonavi.com/showpic/f576876546f62637f534af28a11993f9",
@@ -37,8 +37,8 @@
       "districtName": "黄岛区",
       "lat": 35.967234,
       "lng": 120.173224,
-      "type": "none",
-      "visitStatus": "none",
+      "type": "priority",
+      "visitStatus": "pending",
       "routeId": "",
       "photos": [
         "https://aos-comment.amap.com/B0FFHD1H54/comment/file_media_Photo_4413_IMG_1770862323_4242_IMG_20260212_101023_jpg_ss__1771378486530_25156269.jpg",
@@ -57,8 +57,8 @@
       "districtName": "黄岛区",
       "lat": 35.878613,
       "lng": 119.989569,
-      "type": "none",
-      "visitStatus": "none",
+      "type": "normal",
+      "visitStatus": "pending",
       "routeId": "",
       "photos": [
         "http://store.is.autonavi.com/showpic/e668919240d8833296a8b8ae7833ed45",
